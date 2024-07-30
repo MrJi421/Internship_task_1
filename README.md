@@ -63,16 +63,16 @@ Execute the code to perform the following tasks:
 
 **Sentiment Prediction:**
 Use the predict_sentiment(sentence) function to predict the sentiment of a new tweet.
-    ```bash
+
     sentence = 'Wow you guys have done a fantastic job! Keep it up!'
     sentiment = predict_sentiment(sentence)
     print(sentiment)
-    ```
-    ```bash
+    
+    
     sentence = 'Really bad! Never expected such work from you! Try to improve the quality and service.'
     sentiment = predict_sentiment(sentence)
     print(sentiment)
-    ```
+    
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
